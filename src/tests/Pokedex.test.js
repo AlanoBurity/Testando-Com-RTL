@@ -81,4 +81,3 @@ describe('Testes do componente <Pokedex.js />', () => {
     expect(firstPokemon).toBeInTheDocument();
   });
 });
-
